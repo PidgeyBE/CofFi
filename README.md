@@ -1,5 +1,6 @@
 # CofFi
 Controlling Delonghi Coffee machine using a servo, activated by smartphone app
+https://www.youtube.com/watch?v=cW2_BVvrmLA
 
 Used technologies:
 - ESP8266 for making connection with cloud and activating servo (Programmed via Arduino IDE)
